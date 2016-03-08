@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-08T02:38:47.389Z'
-dateModified: '2016-03-08T02:38:37.011Z'
+datePublished: '2016-03-08T02:48:09.214Z'
+dateModified: '2016-03-08T02:47:34.811Z'
 title: New SummaeStudios site being created
 author: []
+sourcePath: _posts/2016-03-08-new-summaestudios-site-being-created.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-new-summaestudios-site-being-created.md
-published: true
 url: new-summaestudios-site-being-created/index.html
 _type: Article
 
