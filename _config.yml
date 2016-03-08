@@ -1,0 +1,28 @@
+name: SummaeStudios
+favicon: null
+layout_spectrum: 0.7067822450771928
+typography_spectrum: 0.06700067361816764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.23378226649947464
+  lightness: 0.8789304608944803
+  saturation: 0.5979042307008058
+  rhythmicContrast: 0.678895081859082
+purpose: []
